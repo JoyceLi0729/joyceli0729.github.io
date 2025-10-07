@@ -11,35 +11,25 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, University of Illinois Urbana-Champaign, 2022-2027 (expected)
+* B.S. in Statistics and Probability, Peking University, 2018-2022
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2025: Machine Learning Engineer Intern
+  * Responsible Recommendation System, TikTok Inc.
+  * Supervisor: Mark Beliaev
   
-Skills
+Research Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Deep Learning Theory
+  * Generalization and Optimization
+  * Representation Learning Theory
+* Trustworthy Machine Learning
+  * Differential Privacy Analysis
+  * Fairness Processing and Transformation
+* Federated Learning
+* High-dimensional Statistics
 
 Publications
 ======
@@ -55,10 +45,10 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Teaching Assistant for CS 307 Modeling and Learning in Data Science, Fall 2025
+* Teaching Assistant for CS 361 Probability & Statistics for Computer Science, Spring 2024-Spring 2025
+* Teaching Assistant for CS 446 Machine Learning, Fall 2023
   
-Service and leadership
+Service
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer at Neurips, ICLR
