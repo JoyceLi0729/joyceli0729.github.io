@@ -39,4 +39,4 @@ Teaching
   
 Service
 ======
-* Reviewer at Neurips, ICLR
+* Reviewer at NeurIPS, ICLR
