@@ -20,17 +20,6 @@ Work experience
   * Responsible Recommendation System, TikTok Inc.
   * Supervisor: Mark Beliaev
   
-Research Skills
-======
-* Deep Learning Theory
-  * Generalization and Optimization
-  * Representation Learning Theory
-* Trustworthy Machine Learning
-  * Differential Privacy Analysis
-  * Fairness Processing and Transformation
-* Federated Learning
-* High-dimensional Statistics
-  
 Teaching
 ======
 * Teaching Assistant for CS 307 Modeling and Learning in Data Science, Fall 2025
