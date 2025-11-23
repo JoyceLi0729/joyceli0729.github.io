@@ -7,6 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
+
 # 2025
 
 **Sketched Gaussian Mechanism for Private Federated Learning.** [[Paper]](https://openreview.net/pdf?id=AUs0rScwK0)  
@@ -25,10 +26,6 @@ AISTATS, 2025
 *Arindam Banerjee, **Qiaobo Li**, Yingxue Zhou*  
 AISTATS **Oral**, 2025
 
-**Beyond Johnson-Lindenstrauss: Uniform Bounds for Sketched Bilinear Forms.** [[Paper]](https://arxiv.org/abs/2509.21847)   
-*Rohan Deb, **Qiaobo Li**, Mayank Shrivastava, Arindam Banerjee*   
-ArXiv Preprint, 2025
-
 # 2024
 **Differentially Private Post-Processing for Fair Regression.** [[Paper]](https://raw.githubusercontent.com/mlresearch/v235/main/assets/xian24b/xian24b.pdf)  
 *Ruicheng Xian, **Qiaobo Li**, Gautam Kamath, Han Zhao*  
@@ -37,3 +34,12 @@ ICML, 2024
 **Sketching for Distributed Deep Learning: A Sharper Analysis.** [[Paper]](https://openreview.net/pdf?id=0G0VpMjKyV)  
 *Mayank Shrivastava, Berivan Isik, **Qiaobo Li**, Sanmi Koyejo, Arindam Banerjee*  
 NeurIPS, 2024
+
+# Pre-prints
+**Beyond Johnson-Lindenstrauss: Uniform Bounds for Sketched Bilinear Forms.** [[Paper]](https://arxiv.org/abs/2509.21847)   
+*Rohan Deb, **Qiaobo Li**, Mayank Shrivastava, Arindam Banerjee*   
+ArXiv Preprint, 2025
+
+**Sketched Gaussian Mechanism on Matrix for Private Federated LoRA.** [[Paper]](https://openreview.net/pdf?id=4xzpNtnowK)
+Qiaobo Li, Zhijie Chen, Arindam Banerjee
+Under Review, 2025
