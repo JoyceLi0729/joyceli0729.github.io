@@ -8,12 +8,9 @@ author_profile: true
 {% include base_path %}
 
 # 2025
+
 **Sketched Gaussian Mechanism for Private Federated Learning.** [[Paper]](https://openreview.net/pdf?id=AUs0rScwK0)  
 ***Qiaobo Li**, Zhijie Chen, Arindam Banerjee*  
-NeurIPS **Spotlight**, 2025
-
-**Sketched Gaussian Mechanism for Private Federated Learning.**
-***Qiaobo Li**, Zhijie Chen, Arindam Banerjee*
 NeurIPS **Spotlight**, 2025
 
 **Sketched Adaptive Federated Deep Learning: A Sharp Convergence Analysis.** [[Paper]](https://openreview.net/pdf?id=XIeE8jbM4K)  
