@@ -40,6 +40,6 @@ NeurIPS, 2024
 *Rohan Deb, **Qiaobo Li**, Mayank Shrivastava, Arindam Banerjee*   
 ArXiv Preprint, 2025
 
-**Sketched Gaussian Mechanism on Matrix for Private Federated LoRA.** [[Paper]](https://openreview.net/pdf?id=4xzpNtnowK)
-Qiaobo Li, Zhijie Chen, Arindam Banerjee
+**Sketched Gaussian Mechanism on Matrix for Private Federated LoRA.** [[Paper]](https://openreview.net/pdf?id=4xzpNtnowK)   
+*__Qiaobo Li__, Zhijie Chen, Arindam Banerjee*   
 Under Review, 2025
