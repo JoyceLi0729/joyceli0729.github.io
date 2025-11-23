@@ -26,7 +26,7 @@ AISTATS, 2025
 AISTATS **Oral**, 2025
 
 **Beyond Johnson-Lindenstrauss: Uniform Bounds for Sketched Bilinear Forms.** [[Paper]](https://arxiv.org/abs/2509.21847)   
-*Rohan Deb, **Qiaobo Li**, Mayank Shrivastava, Arindam Banerjee*
+*Rohan Deb, **Qiaobo Li**, Mayank Shrivastava, Arindam Banerjee*   
 Arxiv Preprint, 2025
 
 # 2024
